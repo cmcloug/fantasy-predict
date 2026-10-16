@@ -1,0 +1,8 @@
+nflreadpy
+pandas
+pyarrow
+scikit-learn
+statsmodels
+plotly
+streamlit
+pytest
